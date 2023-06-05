@@ -3,4 +3,5 @@
 # https://www.datamentor.io/r-programming/vector
 
 x <- 1:10
-git remote add origin git@github.com:nehleen/Course_2_RProgramming.git
+# In Bash: git remote add origin git@github.com:nehleen/Course_2_RProgramming.git
+# The error observed was due to entering the command on console instead of bash
